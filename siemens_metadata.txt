@@ -1,13 +1,13 @@
 # Metadata for 'Spawning salmon density influences fruit production of salmonberry (Rubus spectabilis)'
 
 VARIABLE			DESCRIPTION
-stream			  Name of the stream
+stream			    Name of the stream
 reach				The reach number within a stream
-quadrat			  The quadrat number within a reach
+quadrat			    The quadrat number within a reach
 fruit_number			The fruit number sampled within a quadrat
 fruit_quality			Stage of fruit upon picking (U=underripe, R=ripe, O=overripe, D=damaged, M=moldy)
 fruit_count			Number of fruit and fruitless receptacles per quadrat (#)	
-weight			  Fruit wet weight (g)
+weight			    Fruit wet weight (g)
 brix_value			Soluble solid content in fruit juice, measured via refractometer (°Brix)
 total_seed_count		Number of seeds in the fruit (#)
 relative_soil_moisture	Moisture content of the soil at the quadrat relative to our reference site (%)
